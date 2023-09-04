@@ -4,7 +4,8 @@
 ## Description
 18,880 Images of 466 People - 3D Instance Segmentation and 22 Landmarks Annotation Data of Human Body. The dataset diversity includes multiple scenes, light conditions, ages, shooting angles, and poses. In terms of annotation, we adpoted instance segmentation annotations on human body. 22 landmarks were also annotated for each human body. The dataset can be used for tasks such as human body instance segmentation and human behavior recognition.
 
-For more details, please refer to the link: https://bit.ly/3C9kIXD
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1040?source=Github
+
 
 ## Data size
 466 people, the number of  images is 18,880

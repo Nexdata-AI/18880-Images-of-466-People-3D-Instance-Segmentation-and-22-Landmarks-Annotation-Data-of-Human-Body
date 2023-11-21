@@ -41,4 +41,4 @@ instance segmentation annotation of human body , 22 landmarks annotation of huma
 Accuracy requirement: the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation;  Accuracy requirement of segmentation annotation: the annotation part (each part of mask) is regarded as the unit, the accuracy rate shall be more than 95%; Accuracy requirement of landmark annotation: the annotation part (each landmark) is regarded as the unit, the accuracy rate shall be more than 95%; Annotating accuracy = number of correct annotations / total number of annotations
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
